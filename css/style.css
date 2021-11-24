@@ -1,0 +1,43 @@
+.atag1 {
+	position: relative;
+	color: white;
+	margin-top: 250px;
+	margin-left: 100px;
+	display: inline-block;
+}
+.image1 {
+	position: absolute;
+}
+.atag2 {
+	position: relative;
+	color: white;
+	margin-left: 10px;
+	display: inline-block;
+}
+.image2 {
+	position: absolute;
+	margin-top: 150px;
+	margin-left: 50px;
+}
+.images {
+	
+	margin-top: 400px;
+	margin-left:300px;
+}
+.images3 {
+margin-left: 750px;
+margin-bottom: 50px;
+
+} 
+.images2 {
+
+display: inline-block;
+
+} 
+
+.images1 {
+margin-left: 750px;
+margin-top: 150px;
+display: inline-block;
+} 
+
